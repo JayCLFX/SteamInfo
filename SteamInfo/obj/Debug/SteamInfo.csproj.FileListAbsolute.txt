@@ -1,0 +1,11 @@
+C:\Users\JayC\source\repos\SteamInfo\SteamInfo\bin\Debug\SteamInfo.exe.config
+C:\Users\JayC\source\repos\SteamInfo\SteamInfo\bin\Debug\SteamInfo.exe
+C:\Users\JayC\source\repos\SteamInfo\SteamInfo\bin\Debug\SteamInfo.pdb
+C:\Users\JayC\source\repos\SteamInfo\SteamInfo\obj\Debug\SteamInfo.csproj.AssemblyReference.cache
+C:\Users\JayC\source\repos\SteamInfo\SteamInfo\obj\Debug\SteamInfo.csproj.CoreCompileInputs.cache
+C:\Users\JayC\source\repos\SteamInfo\SteamInfo\obj\Debug\SteamInfo.exe
+C:\Users\JayC\source\repos\SteamInfo\SteamInfo\obj\Debug\SteamInfo.pdb
+C:\Users\JayC\source\repos\SteamInfo\SteamInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JayC\source\repos\SteamInfo\SteamInfo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\JayC\source\repos\SteamInfo\SteamInfo\obj\Debug\SteamInfo.csproj.Fody.CopyLocal.cache
+C:\Users\JayC\source\repos\SteamInfo\SteamInfo\obj\Debug\SteamInfo.csproj.CopyComplete
